@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**HollisF808/HollisF808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - Hi, I'm Hollis Frazzetto
 
@@ -11,4 +10,3 @@
 - 💬 A fun fact about me is that I also have an identical twin brother!
 - 📫 I recommend reading the manga "Yotsuba&!"
 
--->
